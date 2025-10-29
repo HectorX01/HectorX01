@@ -2,7 +2,7 @@
   Welcome to HectorX01's profile!
 </h3>
 <p align="center">
-  ![Hello World](https://media.tenor.com/images/xyz123/tenor.gif)
+  ![[Hello World]](https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif)
 </p>
 
 ---
