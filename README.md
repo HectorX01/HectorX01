@@ -1,16 +1,35 @@
-## Hi there 👋
+<h3 align="center">
+  Welcome to HectorX01's profile!
+</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
 
-<!--
-**HectorX01/HectorX01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<div align="center">
+  
+# 💫About Me :
+  
+🌱 I’m currently learning : Java , HTML , CSS , JS and SQL
 
-Here are some ideas to get you started:
+  👯 I’m interested in computing learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📫 How to reach me:  
+  Mail me at "hectormulaagueda@gmail.com" or 
+  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
+
+⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+
+
+## 🌐Socials
+  🛠️ In progress
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+---
+![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+</div>
