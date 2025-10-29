@@ -15,11 +15,7 @@
   👯 I’m interested in computing learning
 
   📫 How to reach me:  
-  Mail me at "hectormulaagueda@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
-
+  Mail me at "hectormulaagueda@gmail.com" 
 
 ## 🌐Socials
   🛠️ In progress
