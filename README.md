@@ -1,8 +1,9 @@
 <h3 align="center">
   Welcome to HectorX01's profile!
+  <img src="https://media1.tenor.com/m/5Lh6_-ENKZYAAAAd/dragonismgifs-dimden.gif" height="200" width="280">
 </h3>
 <p align="center">
-  <img src="https://media1.tenor.com/m/5Lh6_-ENKZYAAAAd/dragonismgifs-dimden.gif" height="200" width="280">
+  
 </p>
 
 ---
