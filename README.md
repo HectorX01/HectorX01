@@ -30,8 +30,5 @@
 ## ⚔️ Fun Fact
 > “Every bug fixed is one XP closer to leveling up 💻🔥”
 
-<p align="center">
-  <img src="https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif" width="380" alt="Hello World">
-</p>
 
 </div>
