@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/bd/4d/2ebd4d8a6c00de0d9dfae5ee635c4562.gif" width="420" alt="Coding GIF">
+  <img src="https://media.tenor.com/ONy6Wpt5O2EAAAAd/coding.gif" width="420" alt="Coding GIF">
 </p>
 
 <div align="center">
 
-<!-- 🔹 About Me GIF Header -->
+<!-- 🔹 About Me GIF Header (FUNCIONAL) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5f/5e/1e/5f5e1e3c94a44255c59406af7f42ab7a.gif" width="300" alt="About Me GIF">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=300&lines=💫+About+Me" alt="About Me Animated" />
 </p>
 
 <p align="center">
 🌱 Learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> & <b>SQL</b><br>
 💡 Exploring full-stack dev, game logic & creative coding<br>
-🎮 Passionate about tech & innovation<br>
+🎮 Passionate about tech, anime & innovation<br>
 📫 Reach me at: <b>hectormulaagueda@gmail.com</b>
 </p>
 
@@ -31,4 +31,7 @@
 > “Every bug fixed is one XP closer to leveling up 💻🔥”
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/5e/e2/f55ee2a2cddaa09acb3a612a18e67ad1.gif" width="380" alt="Hello Wo
+  <img src="https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif" width="380" alt="Hello World">
+</p>
+
+</div>
