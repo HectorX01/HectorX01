@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/2e/bd/4d/2ebd4d8a6c00de0d9dfae5ee635c4562.gif" width="450" alt="Coding GIF">
 </p>
 
----
+
 
 <div align="center">
 
@@ -17,12 +17,12 @@
 🎮 Passionate about: Technology, anime & building cool stuff  
 📫 Reach me at: **hectormulaagueda@gmail.com**
 
----
+
 
 ## 🌐 Socials
 🛠️ *Coming soon... projects loading ⏳*
 
----
+
 
 ## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 
@@ -32,12 +32,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
 
 ## ⚔️ Fun Fact
 > “Every bug fixed is one XP closer to leveling up 💻🔥”
 
----
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f5/5e/e2/f55ee2a2cddaa09acb3a612a18e67ad1.gif" width="400" alt="Hello World">
