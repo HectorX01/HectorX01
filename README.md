@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00C7B7&center=true&vCenter=true&width=600&lines=Welcome+to+HectorX01's+Profile!;DAM+Student+%7C+Web+%26+App+Developer;Always+learning+something+new+🚀" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.tenor.com/ONy6Wpt5O2EAAAAd/coding.gif" width="420" alt="Coding GIF">
-</p>
 
 <div align="center">
 
