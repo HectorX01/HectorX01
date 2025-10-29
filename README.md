@@ -16,7 +16,7 @@
 <p align="center">
 🌱 Learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> & <b>SQL</b><br>
 💡 Exploring full-stack dev, game logic & creative coding<br>
-🎮 Passionate about tech, anime & innovation<br>
+🎮 Passionate about tech  & innovation<br>
 📫 Reach me at: <b>hectormulaagueda@gmail.com</b>
 </p>
 
