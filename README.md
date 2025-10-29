@@ -2,7 +2,7 @@
   Welcome to HectorX01's profile!
 </h3>
 <p align="center">
-  <img src="https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif"  heigh = "40" width="28">
+  <img src="https://media.tenor.com/mH_Sq3JI3jkAAAAj/helloworld-programming.gif" height="200" width="280">
 </p>
 
 ---
