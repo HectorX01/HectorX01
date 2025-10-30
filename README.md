@@ -24,8 +24,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚔️ Fun Fact
-> “Every bug fixed is one XP closer to leveling up 💻🔥”
 
 
 </div>
