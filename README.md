@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00C7B7&center=true&vCenter=true&width=600&lines=Welcome+to+HectorX01's+Profile!;DAM+Student+%7C+Web+%26+App+Developer;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00C7B7&center=true&vCenter=true&width=600&lines=Welcome+to+HectorX01's+Profile!" alt="Typing SVG" />
 </h1>
 
 
@@ -7,7 +7,7 @@
 
 <!-- 🔹 About Me GIF Header (FUNCIONAL) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=300&lines=💫+About+Me" alt="About Me Animated" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=300&lines=+About+Me" alt="About Me Animated" />
 </p>
 
 <p align="center">
