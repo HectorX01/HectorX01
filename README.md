@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-🌱 Learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> & <b>SQL</b><br>
-💡 Exploring full-stack dev, game logic & creative coding<br>
-🎮 Passionate about tech  & innovation<br>
-📫 Reach me at: <b>hectormulaagueda@gmail.com</b>
+ Learning <b>Java</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> & <b>SQL</b><br>
+ Exploring full-stack dev, game logic & creative coding<br>
+ Passionate about tech  & innovation<br>
+ Reach me at: <b>hectormulaagueda@gmail.com</b>
 </p>
 
-## 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
+##  Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
